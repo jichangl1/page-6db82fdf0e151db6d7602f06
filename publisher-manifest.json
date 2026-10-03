@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "aaecc01fbc337661285ddb2e",
+  "owner": "jichangl1",
+  "repo": "page-6db82fdf0e151db6d7602f06",
+  "title": "叉烧云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6db82fdf0e151db6d7602f06",
+      "a": "叉烧云",
+      "b": "",
+      "entity": "叉烧云",
+      "brand": "叉烧云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e68d6f627fc6ee731d92a2a7e60594b04bcb7f8bc07c9dd03b09219d2256af56",
+      "content": {
+        "keyword1": "叉烧云",
+        "keyword2": "",
+        "primary_entity": "叉烧云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "叉烧云提供机场订阅与多平台 VPN 客户端官方下载，围绕配置流程说明网络加速、流媒体解锁与游戏专线，适合个人与团队使用。",
+          "AI_DESCRIPTION": "叉烧云提供机场订阅与多平台 VPN 客户端官方下载，围绕配置流程说明网络加速、流媒体解锁与游戏专线，适合个人与团队使用。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",Arial,sans-serif;background:#FFF8F4;color:#2B2422;line-height:1.75;font-size:16px}a{color:#C94B3C}header,main,footer{width:100%}.wrap{max-width:980px;margin:0 auto;padding:0 18px}header{background:#FFF8F4;border-bottom:1px solid #F3D5CC}.nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding:16px 0;gap:12px}.brand{font-weight:700;font-size:1.15rem;color:#C44536;text-decoration:none}.nav-links a{text-decoration:none;margin-left:14px;font-size:0.95rem;color:#6B3E36}.hero{padding:72px 0 56px;text-align:center}h1{font-size:2.35rem;line-height:1.25;color:#B83226;margin:0 0 18px;font-weight:700}.lead{max-width:640px;margin:0 auto 28px;color:#5C4A46;font-size:1.05rem}.cta{display:inline-block;background:#E85A48;color:#fff;text-decoration:none;padding:12px 26px;border-radius:10px;font-weight:600}h2{font-size:1.5rem;color:#B83226;margin:48px 0 16px;padding-bottom:8px;border-bottom:2px solid #F7C9C0}h3{font-size:1.15rem;color:#8E3A30;margin:22px 0 8px}.muted{color:#6A5753}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:20px 0 8px}.card{flex:1 1 260px;background:#FFFFFF;border:1px solid #F0D4CC;border-radius:12px;padding:22px 20px}.card.featured{border:2px solid #E85A48;background:#FFF6F3}.tag{display:inline-block;background:#E85A48;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.7rem;color:#D94A38;font-weight:700;margin:8px 0 4px}.annual{font-size:0.9rem;color:#8A5E56;margin-bottom:12px}.card ul{margin:0;padding-left:18px}.steps{background:#FFFFFF;border:1px solid #F0D4CC;border-radius:12px;padding:8px 20px 20px}.scene{background:#FFFFFF;border:1px solid #F0D4CC;border-radius:12px;padding:16px 18px;margin-bottom:12px}.faq details{background:#FFFFFF;border:1px solid #F0D4CC;border-radius:8px;padding:10px 14px;margin-bottom:10px}.faq summary{font-weight:600;color:#8E3A30}.faq p{margin:10px 0 4px;color:#4A3C39}.ad{margin:36px 0;padding:22px;background:#FCEEE9;border-radius:10px;text-align:center;color:#7A5A54}.friends{margin:12px 0 24px}.friends a{margin-right:14px;text-decoration:none}footer{border-top:1px solid #F3D5CC;padding:28px 0 40px;font-size:0.9rem;color:#6A5753}@media (max-width:720px){h1{font-size:1.75rem}.hero{padding:44px 0 36px}.nav-links a{margin-left:0;margin-right:12px}.plans{flex-direction:column}}</style><header><div class=\"wrap nav\"><a class=\"brand\" href=\"#\">叉烧云</a><nav class=\"nav-links\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><section class=\"hero\"><h1>叉烧云</h1><p class=\"lead\">叉烧云官方网站提供机场订阅、VPN 客户端下载与网络加速服务。页面围绕可执行的配置流程，说明套餐、节点与多端导入方式，便于个人与团队完成加速器部署。</p><a class=\"cta\" href=\"#guide\">从配置流程开始</a></section><section id=\"intro\"><h2>品牌简介</h2><p>叉烧云是面向跨境访问与网络加速的机场品牌，以订阅链接连接多地区节点，并配套 Windows、macOS、Android、iOS 及常见 Clash 内核客户端。官方身份以本站套餐说明、下载指引与工单规则为准，避免在非官方渠道复制来路不明的配置。</p><p>与单纯的一次性加速器不同，叉烧云按月流量与同时在线设备分层：基础版覆盖日常浏览，旗舰版强化原生流媒体与 IPLC 游戏线路，团队版面向多成员共享与定制路由。年付可锁定当期单价，减少反复续费操作。</p></section><section id=\"plans\"><h2>套餐与节点能力</h2><p class=\"muted\">价格与权益以购买时展示为准。下列三档对应不同流量、设备数与线路池，便于对照后再进入配置流程。</p><div class=\"plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>节点侧，普通线路适合网页与文档；旗舰与团队可调度 IPLC 与高带宽入口，降低游戏与会议抖动。实际延迟因本地运营商与目标地区而异，首次使用建议在客户端内测速后再固定节点。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scene\"><h3>跨境办公与资料协作</h3><p>远程桌面、企业邮箱、代码仓库与云盘同步对稳定会话更敏感。建议用旗舰版固定一条延迟较低的专线，并在客户端开启分流，让国内站点直连、跨境域名走订阅节点。</p></div><div class=\"scene\"><h3>流媒体与内容研究</h3><p>基础版可满足常见站点的基础解锁；需要全节点原生流媒体时选择旗舰版。播放前先更新订阅，避免旧节点被替换后仍显示已连接。</p></div><div class=\"scene\"><h3>游戏加速与低抖动链路</h3><p>对延迟和丢包更敏感的对战与登录流程，优先使用带 IPLC 说明的节点。团队版可将游戏域名单独指向 VIP 入口，减少与视频下载争抢带宽。</p></div><div class=\"scene\"><h3>多设备家庭或小团队</h3><p>同一订阅可按套餐设备上限同时在线。超出上限时后接入设备会失败，这时应升级套餐或在不用的终端断开，而不是反复更换订阅链接。</p></div></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>叉烧云把首次接通拆成五步。按顺序做完后，再根据场景微调分流与节点，比先到处寻找第三方教程更不容易配错。</p><div class=\"steps\"><h3>第一步：确认套餐与设备数量</h3><p>在官方网站核对基础版、旗舰版或团队版的流量与同时在线台数。手机、电脑、平板各算一台。确定后再生成订阅，避免中途改套餐导致链接失效。</p><h3>第二步：复制机场订阅地址</h3><p>登录后在用户中心找到订阅或导入链接，完整复制。不要把链接发到公开群组。若怀疑泄露，应在控制台重置订阅，旧链接会立即失效。</p><h3>第三步：下载对应客户端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端；Android 使用 Clash Meta 内核应用；iOS 使用支持订阅导入的客户端。仅从本页「客户端下载」锚点对应的官方说明获取安装包，避免捆绑不明插件。</p><h3>第四步：导入订阅并更新节点</h3><p>打开客户端，选择从 URL 导入或订阅管理，粘贴链接后执行更新。看到节点列表后再开启系统代理或 TUN 模式。若列表为空，检查系统时间是否准确，以及是否误开了多重代理。</p><h3>第五步：选择节点、分流与日常维护</h3><p>网页浏览可选普通线路；流媒体选带解锁标识的节点；游戏选 IPLC。建议开启规则分流，让国内流量直出。每月留意流量余量，年付用户仍需在周期结束前续期，以免订阅中断。</p></div><p class=\"muted\">配置完成后，用同一浏览器访问原先较慢的跨境站点验证。若仅部分 App 不通，回到客户端检查是否漏开 VPN 权限或分应用代理。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>叉烧云不绑定单一闭源客户端，订阅可导入主流协议兼容软件。下列为官方推荐的安装路径说明，下载入口统一回到本页锚点，便于核对版本说明。</p><h3>桌面端</h3><p>Windows：安装 Clash 图形前端后导入订阅，开启系统代理。macOS：同样使用 Clash 兼容客户端，并在网络权限中允许扩展。导入后点击更新，确认出现普通线路与 IPLC 分组。</p><h3>移动端</h3><p>Android：选择 Clash Meta 内核应用，粘贴订阅 URL，开启 VPN 授权。iOS：在支持订阅的客户端中添加 URL，按系统提示安装描述文件或开启 VPN。平板计入设备数，请与手机合计不超过套餐上限。</p><h3>进阶客户端</h3><p>熟悉规则的用户可在 Surge、Quantumult 等工具中使用同一订阅。自定义规则请保留国内直连，以免把所有流量送入节点造成不必要的消耗。官方下载说明见 <a href=\"#download\">客户端下载</a>，配置细节回到 <a href=\"#guide\">配置流程</a>。</p></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>叉烧云和普通加速器有什么区别？</summary><p>叉烧云以机场订阅为核心：一次导入即可更新全部节点，而不是只提供单一入口。你可以按套餐在普通线路、流媒体解锁节点和 IPLC 之间切换，并在多台设备上共用同一官方订阅。</p></details><details><summary>第一次使用应该按什么顺序配置？</summary><p>先选定套餐并确认设备数量，再复制订阅链接，然后下载对应系统客户端，导入并更新节点，最后按场景选择线路和分流。完整步骤写在本页配置流程，建议不要跳过更新订阅这一步。</p></details><details><summary>官方客户端可以从哪里下载？</summary><p>请通过叉烧云官网本页的客户端下载说明获取 Windows、macOS、Android 与 iOS 的推荐软件类型。不要使用来路不明的安装包。下载后回到配置流程完成导入即可连通。</p></details><details><summary>基础版、旗舰版和团队版如何选择？</summary><p>日常浏览与少量视频选基础版（100GB / 3 设备）。需要全节点原生流媒体、游戏 IPLC 与优先工单选旗舰版（300GB / 5 设备）。多人同时在线、定制路由和专属客户经理选团队版（1000GB / 20 设备）。年付分别为 ¥150、¥350 与 ¥850。</p></details><details><summary>提示设备超限或连不上时怎么办？</summary><p>先在各终端断开不用的连接，确认未超过套餐台数。仍失败时更新订阅、校准系统时间，并检查是否同时开了多个代理。团队场景可改用团队版或拆分非必要设备。</p></details><details><summary>订阅链接是否需要保密？</summary><p>需要。链接相当于访问凭证，泄露后他人可消耗你的流量。只在自有设备的客户端中粘贴。若已公开过，立即在用户中心重置，再按配置流程重新导入新地址。</p></details></section><aside class=\"ad\" id=\"ads\"><p>广告位：叉烧云官方网站合作展示区。仅放置与网络工具、办公协作相关的文字合作信息，不跳转外部脚本资源。</p><p><a href=\"#\">广告合作说明</a> · <a href=\"#intro\">回到简介</a></p></aside><section id=\"links\"><h2>友情链接</h2><p class=\"friends\"><a href=\"#\">站点地图</a><a href=\"#download\">官方下载</a><a href=\"#guide\">配置说明</a><a href=\"#faq\">帮助中心</a><a href=\"#\">合作伙伴</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>叉烧云官方网站 · 机场订阅与 VPN 客户端下载 · 网络加速梯子服务说明</p><p><a href=\"#\">首页</a> · <a href=\"#\">Sitemap</a> · <a href=\"#ads\">广告</a> · <a href=\"#links\">友链</a></p><p>内容用于说明套餐、配置流程与客户端获取方式。使用时请遵守当地法律法规与目标网站条款。</p></div></footer>",
+          "hash": "ccb35897a047f12ee9e2e0cb20c4f92367ecdeb0da4c38bdd736a1e02427531e",
+          "seo": {
+            "title": "叉烧云官网 - 机场订阅与VPN客户端下载 | 网络加速梯子",
+            "keywords": "叉烧云,叉烧云机场,叉烧云VPN,叉烧云官网,梯子,网络加速,加速器,客户端下载,机场订阅",
+            "description": "叉烧云提供机场订阅与多平台 VPN 客户端官方下载，围绕配置流程说明网络加速、流媒体解锁与游戏专线，适合个人与团队使用。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nbgbqor.cn",
+    "host": "p-92266d90c2.nbgbqor.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nbgbqor.cn",
+      "url": "https://nbgbqor.cn/",
+      "label": "中国国际机场(CIv2b)",
+      "apex": "nbgbqor.cn",
+      "kind": null,
+      "identity": "hudegr/page-d074a620d6f8789b996d19b7"
+    },
+    {
+      "host": "tgceqm.cn",
+      "url": "https://tgceqm.cn/",
+      "label": "叉烧云",
+      "apex": "tgceqm.cn",
+      "kind": null,
+      "identity": "cwrkaphrp/page-70ca5ccac56f235f5677b604"
+    },
+    {
+      "host": "tp1uvo.cn",
+      "url": "https://tp1uvo.cn/",
+      "label": "叉烧云",
+      "apex": "tp1uvo.cn",
+      "kind": null,
+      "identity": "sdbqgfqxrnn/page-7dd7d3554d994fbe4530653c"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f99739bf486c8d99eeab8d8a2e3c9d87b74ec55336ff5d37cd15666297d69635",
+    "sitemap.xml": "45d9e0ac65433d98143de6c2e4245704e28e3960aa989bcdf8212b54f3ff251d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b7df8df2fdce95813c03ce917bf90243a078ea08d48d78977987f363997a8559",
+    "robots.txt": "766a0a19291be971fa7f99da4b2fe9973750639cc00552ccd97da921c3016a4f",
+    "392d9ffeca3a5e7cb2e408d8a97af8d0.txt": "ad8b61685072b4f7f3d1fa3e405420cf80036dbbc19eb565c9cb5c6e844eb63f"
+  },
+  "revision": "c84c72a47735d46632a7dcf52e5d3bb1fc18b4aac2e70e474a07da33ca67cffe"
+}
